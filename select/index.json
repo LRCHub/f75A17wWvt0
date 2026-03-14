@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "grilletto",
+  "base_artist": "GARNiDELiA",
+  "createdAt": "2026-03-14T16:32:32.499019Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Grilletto",
+      "artist": "GARNiDELiA",
+      "has_synced": true,
+      "path": "select/01_Grilletto_GARNiDELiA.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "grilletto",
+      "artist": "ASCA",
+      "has_synced": true,
+      "path": "select/02_grilletto_ASCA.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "grilletto",
+      "artist": "GARNiDELiA",
+      "has_synced": true,
+      "path": "select/03_grilletto_GARNiDELiA.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "grilletto",
+      "artist": "GARNiDELiA",
+      "has_synced": true,
+      "path": "select/04_grilletto_GARNiDELiA.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "grilletto",
+      "artist": "GARNiDELiA",
+      "has_synced": false,
+      "path": "select/pl_01_grilletto_GARNiDELiA.txt"
+    }
+  ]
+}
